@@ -1,19 +1,8 @@
-/* =================================================
-
-Template Name:  Marlon - Personal Responsive Bootstrap Template
-Author: MouriTheme
-Version: 1.0
-Design and Developed by: Mouritheme
-
-NB: This is the responsive stylesheet of this theme.
-
-=================================================== */
 
 
-/* Medium Layout: 1280px. */
 @media only screen and (min-width: 992px) and (max-width: 1200px) {}
 
-/* Tablet Layout: 768px. */
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 .sm-mb-30{
         margin-bottom: 30px; 
@@ -64,7 +53,7 @@ NB: This is the responsive stylesheet of this theme.
 
 }
 
-/* Mobile Layout: 320px. */
+
 @media only screen and (max-width: 767px) {
 .xs-mb-30{
         margin-bottom: 30px; 
@@ -234,7 +223,6 @@ NB: This is the responsive stylesheet of this theme.
 
 }
 
-/* Wide Mobile Layout: 480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
 
