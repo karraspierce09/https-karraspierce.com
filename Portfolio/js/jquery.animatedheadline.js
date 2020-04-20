@@ -2,7 +2,7 @@
 
     $.fn.animatedHeadline = function(options) {
         var settings = $.extend({
-            // Below are the default settings.
+           
             animationType: "rotate-1",
             animationDelay: 2500,
             barAnimationDelay: 3800,
